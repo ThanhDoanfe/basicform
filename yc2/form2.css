@@ -1,0 +1,22 @@
+form{
+    background: burlywood;
+    width: 30%;
+    height: 400px;
+}
+h2{
+    background: cadetblue;
+    margin: 10px;
+
+}
+input{
+    margin: 5px 20px;
+}
+p{
+    margin: 5px;
+    text-align: center;
+}
+select{
+    width: 80px;
+    margin-left: 45px;
+
+}
